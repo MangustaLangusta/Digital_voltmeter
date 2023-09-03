@@ -1,6 +1,9 @@
 # Digital_voltmeter
 Multi-channel digital voltmeter for test task. Measures DC (0-3.3V), AC ~40-70Hz (0-3.3V amplitude).
 
+## Видеодемонстрация работы
+https://www.youtube.com/watch?v=pDfcGRnqaW4
+
 ## Особенности реализации
 - Проект реализован для отладочной платы Blue Pill от STM. 
 - На плате находится МК STM32F103C8, присутствует кварцевый резонатор на 8МГц, а также светодиод индикации, подсоединенный к выводу C13.
